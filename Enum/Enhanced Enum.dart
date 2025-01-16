@@ -9,6 +9,6 @@ enum CompanyType{
 }
 
 void main(){
-  CompanyType companyType = CompanyType.soleProprietorship;
-  print(companyType.text);
+  CompanyType soleProprietorship = CompanyType.soleProprietorship;
+  print(soleProprietorship.text);
 }
