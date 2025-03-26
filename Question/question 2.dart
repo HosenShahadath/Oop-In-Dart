@@ -3,7 +3,7 @@ class House{
   String name;
   double price;
 
-  // Contructor to initialize value
+  // Constructor to initialize value
   House(this.id, this.name, this.price);
 
   void displayDetails(){
