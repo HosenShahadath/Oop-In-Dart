@@ -11,7 +11,7 @@ class Laptop {
     print('Laptop Id: $id');
     print('Laptop name: $name');
     print('Laptop Ram: ${ram} GB');
-    print('');
+    print('------------------');
   }
 }
 
